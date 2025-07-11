@@ -1,3 +1,6 @@
+<!-- REPO:
+https://github.com/degu0055/Lab-A10-Remote-storage-for-Terraform-state -->
+
 
 # CST8918 Lab A11 — Remote Terraform State Storage with Azure Blob Storage
 
